@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main1{
+    width: 380px;
+    height: 460px;
+    box-shadow: 3px 3px 10px rgba(221, 169, 55, 0.2);
+    border-radius: 15px;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+    margin: 5px;
+}
+.img1 img {
+    width: 320px;
+    height: 180px;
+    margin: auto;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+    display:flex;
+    position:relative;
+}
+.container {
+    align-items: center;
+    justify-content: center;
+}
+.row {
+    align-items: center;
+    justify-content: center;
+}
+.col {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.content1 {
+    text-align: center;
+    width: 100%;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    margin: 5px;
+    padding: 10px;
+    word-wrap:break-word;
+    overflow: hidden;
+    text-overflow: ellipsis;
+   
+}
+.content h3{
+    border-bottom: 1px solid #be1212;
+}
+.content p {
+    color: rgb(175, 13, 13);
+}
+.footer1{
+   
+    align-items:flex-end;
+    justify-content:flex-end;
+}
+.ft-l{
+    display: flex;
+}
+
+.row1{
+    margin: 10px;
+}
+
+
+.numberofpeoplebooking{
+    text-align:right;
+}
+
+.main2{
+    width: 410px;
+    height: 280px;
+    box-shadow: 3px 3px 10px rgba(221, 169, 55, 0.2);
+    border-radius: 15px;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+    margin: 5px;
+}
+.botton{
+
+}

@@ -1,0 +1,41 @@
+.description{
+
+}
+.flowerinthegarden{
+    
+}
+.img  {
+    width: 100%;
+    height: 750px;
+    margin: auto;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+    display: flex;
+    position:relative;
+}
+.img img {
+    width: 1120px;
+    height: 630px;
+}
+.maindescription  {
+    width: 100%;
+    margin: 20px;
+
+}
+.map  {
+    width: 400px;
+
+}
+.maph3  {
+
+
+}
+ul li {
+    padding-right: 10px;
+    line-height: 1.6;
+}
+div#navigation li {
+    list-style: none;
+}
+
